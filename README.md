@@ -29,10 +29,39 @@
 <br />
 
 #### Libraries and frameworks
-[<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][github]
-[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />][github]
-[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][github]
-[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
+
+##### Python
+* PySide2
+* face_recognition
+* tensorflow
+* pixellib
+* speech_recognition
+* socket
+* pytelegrambotapi
+* requests
+* bs4
+* keyboard
+* threading
+* sqlite3
+* smtplib
+* kivy
+* vk_api
+* logging  
+* numpy
+* pytesseract
+* pillow
+* unittest
+* pyttsx3
+
+##### C++
+* QT
+* STL
+* threading
+* socket
+* algorithm
+
+##### Other
+* BootStrap
 
 <br />
 
