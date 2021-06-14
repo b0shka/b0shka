@@ -1,6 +1,6 @@
 ## Hello, I'm b0shka
 
-Desktop developer
+### Desktop developer
 
 ### Skills and Tools
 
