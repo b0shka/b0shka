@@ -63,8 +63,6 @@
 ##### Other
 * BootStrap
 
-<br />
-
 ---
 ### You can contact me:
 
