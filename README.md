@@ -25,7 +25,7 @@
 [<img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][github]
 [<img align="left" alt="Bot" width="30px" src="https://raw.githubusercontent.com/github/explore/f79df033ebbd00d8db1ea81f35a5945b110cbee9/topics/bot/bot.png" />][github]
 [<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][github]
-[<img align="left" alt="QT" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />][github]
+[<img align="left" alt="QT" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />][github]
 
 
 <br />
