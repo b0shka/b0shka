@@ -38,4 +38,4 @@
 [<img align="left" alt="Facebook" width="50px" src="https://avatars.mds.yandex.net/get-zen_doc/1897860/pub_5d4548ddbf50d500ad719933_5d454b8cec575b00ad9a1af2/scale_1200" />][telegram]
 
 [github]: https://github.com/b0shka?tab=repositories
-[telegram]: https://t.me/b00shka
+[telegram]: https://t.me/b_0shka
