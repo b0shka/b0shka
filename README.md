@@ -1,6 +1,6 @@
 # Hello, I'm Vanya 👋
 
-- 💻 Core Stack: **Python, Go, JS/ReactJS/NextJS, Kotlin**. Mainly focused on Android developmentand FullStack .
+- 💻 Core Stack: **Python, Go, JS/ReactJS/NextJS, Kotlin**. Mainly focused on Android development and FullStack .
 - 📲 Additional technologies: **MySQL, MongoDB, Java, C++, Bash, Linux, QT**
 - 👨‍💻 [Telegram](https://t.me/b_0shka): **@b_0shka**
 
