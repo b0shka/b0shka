@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-423d3d?style=for-the-badge&logo=postgresql"/>
     <img src="https://img.shields.io/badge/MongoDB-423d3d?style=for-the-badge&logo=mongodb"/>
     <img src="https://img.shields.io/badge/Redis-423d3d?style=for-the-badge&logo=redis"/>
+    <img src="https://img.shields.io/badge/S3-423d3d?style=for-the-badge&logo=amazons3"/>
     <img src="https://img.shields.io/badge/Firebase-423d3d?style=for-the-badge&logo=firebase"/>
 </div>
 
