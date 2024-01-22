@@ -28,7 +28,7 @@
 
 <div id="follow_me">
     <h3>Follow me</h3>
-    <a href="https://t.me/b_0shka">
+    <a href="https://t.me/vanya_pal">
         <img src="https://img.shields.io/badge/Telegram-423d3d?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
     </a>
 </div>
