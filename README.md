@@ -13,6 +13,7 @@
     <h3>Databases</h3>
     <img src="https://img.shields.io/badge/PostgreSQL-423d3d?style=for-the-badge&logo=postgresql"/>
     <img src="https://img.shields.io/badge/MongoDB-423d3d?style=for-the-badge&logo=mongodb"/>
+    <img src="https://img.shields.io/badge/Redis-423d3d?style=for-the-badge&logo=redis"/>
     <img src="https://img.shields.io/badge/ClickHouse-423d3d?style=for-the-badge&logo=clickhouse"/>
 </div>
 
